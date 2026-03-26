@@ -7,7 +7,7 @@
 <!-- 🖼️ Banner -->
 
 <p align="center">
-  <img src="(https://github.com/karan942006/karan942006/blob/main/github%20banner.png)" />
+  <img src="https://github.com/karan942006/karan942006/blob/main/github%20banner.png" />
 </p>
 
 ---
