@@ -58,31 +58,12 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranLingayat&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranLingayat&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranLingayat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🧩 Contribution Snake Animation 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Achievements & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KaranLingayat&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
